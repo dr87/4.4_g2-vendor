@@ -1,4 +1,4 @@
-ifeq ($(TARGET_DEVICE),d800)
+ifeq ($(TARGET_DEVICE),vs980)
 
 LOCAL_PATH := $(call my-dir)
 
