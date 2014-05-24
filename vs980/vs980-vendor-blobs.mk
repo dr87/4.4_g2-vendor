@@ -245,6 +245,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/vs980/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/lge/vs980/proprietary/vendor/lib/libvdmengine.so:system/vendor/lib/libvdmengine.so \
     vendor/lge/vs980/proprietary/vendor/lib/libvdmfumo.so:system/vendor/lib/libvdmfumo.so \
+    vendor/lge/vs980/proprietary/bin/sensorservice:system/bin/sensorservice \
+    vendor/lge/vs980/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
+    vendor/lge/vs980/proprietary/vendor/lib/libsensor_test.so:system/vendor/lib/libsensor_test.so \
     vendor/lge/vs980/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/lge/vs980/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/lge/vs980/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
