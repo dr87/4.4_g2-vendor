@@ -111,11 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d802/proprietary/vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_I2C_NCD_Signed_ORC.ncd:system/vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_I2C_NCD_Signed_ORC.ncd \
     vendor/lge/d802/proprietary/vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_PreI2C_NCD_Signed_ORC.ncd:system/vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_PreI2C_NCD_Signed_ORC.ncd \
     vendor/lge/d802/proprietary/vendor/firmware/BCM4335B0_002.001.006.0191.0201_ORC.hcd:system/vendor/firmware/BCM4335B0_002.001.006.0191.0201_ORC.hcd \
-    vendor/lge/d802/proprietary/vendor/firmware/discretix/dxhdcp2.b00:system/vendor/firmware/discretix/dxhdcp2.b00 \
-    vendor/lge/d802/proprietary/vendor/firmware/discretix/dxhdcp2.b01:system/vendor/firmware/discretix/dxhdcp2.b01 \
-    vendor/lge/d802/proprietary/vendor/firmware/discretix/dxhdcp2.b02:system/vendor/firmware/discretix/dxhdcp2.b02 \
-    vendor/lge/d802/proprietary/vendor/firmware/discretix/dxhdcp2.b03:system/vendor/firmware/discretix/dxhdcp2.b03 \
-    vendor/lge/d802/proprietary/vendor/firmware/discretix/dxhdcp2.mdt:system/vendor/firmware/discretix/dxhdcp2.mdt \
     vendor/lge/d802/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/lge/d802/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/lge/d802/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
@@ -176,7 +171,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/d802/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/lge/d802/proprietary/vendor/lib/libdsnetutils.so:system/vendor/lib/libdsnetutils.so \
     vendor/lge/d802/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
-    vendor/lge/d802/proprietary/vendor/lib/libDxHdcp.so:system/vendor/lib/libDxHdcp.so \
+    vendor/lge/d802/proprietary/lib/libDxHdcp.so:system/lib/libDxHdcp.so \
     vendor/lge/d802/proprietary/vendor/lib/libFuzzmmstillomxenc.so:system/vendor/lib/libFuzzmmstillomxenc.so \
     vendor/lge/d802/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/lge/d802/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
